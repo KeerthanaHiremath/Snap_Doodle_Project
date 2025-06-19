@@ -19,12 +19,13 @@
 
 ## 📁 Project Structure
 
-'''snap-doodle/
-
-├── main.py                              # Main application script
-├── flower.png                           # Example filter image (with alpha)
+```
+snap-doodle/
+├── main.py                        # Main application script
+├── flower.png                     # Example filter image (with alpha)
 ├── haarcascade_frontalface_default.xml
-└── README.md'''
+└── README.md
+```
 
 
 
