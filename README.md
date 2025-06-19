@@ -16,3 +16,37 @@
 - **OpenCV (`cv2`)**
 - **CVZone**
 - **Haarcascade Classifier**
+
+## 📁 Project Structure
+
+snap-doodle/
+ ├── main.py                              # Main application script
+ ├── flower.png                           # Example filter image (with alpha)
+ ├── haarcascade_frontalface_default.xml
+ └── README.md
+
+
+## 🎮 Controls
+
+Press S → Save snapshot
+Press Q → Quit the application
+
+## ✅ What I Learned
+
+**This project helped me understand:**
+   
+   - Real-time webcam input processing with OpenCV
+   - Face detection using Haar Cascades
+   - Overlaying transparent images using cvzone.overlayPNG
+   - Working with image formats and alpha channels (RGBA)
+   - Writing interactive computer vision applications in Python
+   - Basic error handling and modular code design
+
+     
+## 🙌 Future Improvements
+
+    - Add multiple filters with key-switching
+    - Use facial landmarks for more accurate placement
+    - Integrate hand gestures for filter changes
+    - Add fun animations and effects
+
