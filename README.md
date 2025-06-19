@@ -21,17 +21,13 @@
 ## 📁 Project Structure
 
 📦 SnapDoodle 
-   ├── haarcascade_frontalface_default.xml
-   ├── cool.png 
-   ├── snap_doodle.py 
+   **├── haarcascade_frontalface_default.xml
+   **├── cool.png 
+   **├── snap_doodle.py 
 
 
-🌟 Preview
-    
-    A real-time filter applied on face using doodle image.
-
-🚀 Future Enhancements
-     Add Multiple Filters
-     Enable Filter Switching
-     Capture Snapshots
-     Add AR Stickers or Emoji Effects
+# 🚀 Future Enhancements
+    - Add Multiple Filters
+    - Enable Filter Switching
+    - Capture Snapshots
+    - Add AR Stickers or Emoji Effects
