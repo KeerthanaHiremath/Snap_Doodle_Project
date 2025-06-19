@@ -44,14 +44,3 @@ snap-doodle/
    - Writing interactive computer vision applications in Python
    - Basic error handling and modular code design
 
-     
-## 🙌 Future Improvements
-
-    - **Add multiple filters with key-switching**
-    
-    - **Use facial landmarks for more accurate placement**
-    
-    - **Integrate hand gestures for filter changes**
-    
-    - **Add fun animations and effects**
-
