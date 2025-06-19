@@ -8,7 +8,6 @@
 - Real-time Webcam Access
 - Transparent PNG Overlay
 - Lightweight & Interactive UI
-- Press `q` to Quit
 
 ## 🛠️ Tech Stack
 
